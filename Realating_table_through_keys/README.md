@@ -1,5 +1,5 @@
-***Creating relations: Relating tables through keys
-**Instructions
+**Creating relations: Relating tables through keys
+*Instructions
 In this practice problem, you will create three tables with data associations between them.
 
 You will write your queries in the relevant SQL files to get the tests to pass.
